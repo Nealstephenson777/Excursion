@@ -1,6 +1,6 @@
 # Semantic HTML5
 ## Excursion
- In this project, I utilised some of the semantic html5 structure elements to create a static webpage for advertising an application for a mobile devices. Please use this opportunity to explore my ability to write semantic html, and my knowledge regarding the structure elements.
+ In this project, I utilised some of the semantic html5 structure elements to create a static webpage for advertising an application for mobile devices. Please use this opportunity to explore some of my skills to write semantic html, and my knowledge regarding the structure elements.
 ## Table of contents
 * [General info](#general-info)
 * [Project-Objectives](#project-objectives)
@@ -10,7 +10,7 @@
 
 ## General info
 
-This project aims to demonstrate my ability to write semantic html while keeping web accessibility in mind.
+This project aims to demonstrate a fraction of my ability to write semantic html while keeping web accessibility in mind.
 
 ##  Project-Objectives
 ###  Excursion:
